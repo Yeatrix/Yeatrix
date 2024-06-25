@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lakshya Kumar</h1>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> I'm Lakshya Kumar</h1>
+
 <h2 align="center">A passionate & hardworking Engineer from India</h2>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yeatrix&label=Profile%20views&color=0e75b6&style=flat" alt="yeatrix" /> </p>
 
 ![banner-gitprofile](https://github.com/Yeatrix/Yeatrix/assets/162366000/1d944b36-ad47-46c9-99d4-2132af87f5d8)
 
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [AI/ML model predicting viscosity of a STF(Non-Newtonian Fluid) based on particle size,temperature, shear rate.](projectlink)
 
@@ -16,6 +21,7 @@
 
 - ⚡ Fun fact **I like watching anime, reading manhwas, listening songs and playing games (just like any other kid)**
 
+<br>
 <br>
 
 <h2 align="left">Connect with me:</h2>
