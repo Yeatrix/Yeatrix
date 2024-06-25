@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lakshya Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeatrix&label=Profile%20views&color=0e75b6&style=flat" alt="yeatrix" /> </p>
 
 - 🔭 I’m currently working on [AI/ML model predicting viscosity of a STF(Non-Newtonian Fluid) based on particle size,temperature, shear rate.](projectlink)
 
-- 🌱 I’m currently learning **Data Analytics - POWER BI Tool**
+- 🌱 I’m currently learning **Data Analytics - Power BI Tool**
 
 - 📫 How to reach me **lakshyakumar.iitd@gmail.com**
 
-- 📄 Know about my experiences [resumelink](resumelink)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h7DA4is6UOl1Dn7UwnKfMbl2NE-vnZSV/view?usp=sharing)
 
 - ⚡ Fun fact **I like watching anime, reading manhwas, listening songs and playing games (just like any other kid)**
 
