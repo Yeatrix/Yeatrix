@@ -44,3 +44,5 @@
   </tr>
 </table>
 
+<br>
+![snake gif](https://github.com/Yeatrix/Yeatrix/blob/output/github-contribution-grid-snake.gif)
