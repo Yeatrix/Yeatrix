@@ -43,6 +43,3 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yeatrix&" alt="yeatrix" /></td>
   </tr>
 </table>
-
-<br>
-![snake gif](https://github.com/Yeatrix/Yeatrix/blob/output/github-contribution-grid-snake.svg)  
