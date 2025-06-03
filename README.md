@@ -11,9 +11,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [AI/ML model predicting viscosity of a STF(Non-Newtonian Fluid) based on particle size,temperature, shear rate.](projectlink)
+- 🔭 I’m currently working on [Tasya](projectlink)
 
-- 🌱 I’m currently learning **Data Analytics - Power BI Tool**
+- 🌱 I’m currently learning **DeepFM Architecture**
 
 - 📫 How to reach me **lakshyakumar.iitd@gmail.com**
 
