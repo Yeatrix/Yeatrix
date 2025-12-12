@@ -11,13 +11,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [Tasya](projectlink)
+- 🔭 I’m currently working on [hadesq](projectlink)
 
-- 🌱 I’m currently learning **DeepFM Architecture**
+- 🌱 I’m currently learning **WebGL and creating 3d websites**
 
 - 📫 How to reach me **lakshyakumar.iitd@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h7DA4is6UOl1Dn7UwnKfMbl2NE-vnZSV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GRKcNx27Q-MCMvWHEUSPmyaFJHR8trae/view?usp=sharing)
 
 - ⚡ Fun fact **I like watching anime, reading manhwas, listening songs and playing games (just like any other kid)**
 
