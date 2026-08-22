@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **lakshyakumar.iitd@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GRKcNx27Q-MCMvWHEUSPmyaFJHR8trae/view?usp=sharing)
 
 - ⚡ Fun fact **I like watching anime, reading manhwas, listening songs and playing games (just like any other kid)**
 
